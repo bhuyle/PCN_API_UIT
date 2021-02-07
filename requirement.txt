@@ -2,3 +2,4 @@ libcaffe-cpu-dev
 ipdb
 requests
 imutils
+libopencv-dev
